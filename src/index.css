@@ -3,3 +3,7 @@
 body {
   background: #131218;
 }
+
+input {
+  all: unset;
+}
